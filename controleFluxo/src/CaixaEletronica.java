@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner6;
-
 public class CaixaEletronica {
     public static void main(String[] args) {
         double saldo = 25.0;
